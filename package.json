@@ -1,0 +1,14 @@
+{
+    "name": "ict-practical-notebook",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node api/index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "formidable": "^1.2.2",
+      "pdfkit": "^0.12.3"
+    }
+  }
+  
